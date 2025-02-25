@@ -17,7 +17,7 @@ Object-Oriented Programming (OOP) and Software Engineering Principles - emphasiz
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Implementation/Coding: Writing the actual code based on the design specifications.   
+Implementation/Coding - Writing the actual code based on the design specifications.   
 Testing: Evaluating the software to identify and fix bugs and ensure it meets requirements.   
 Deployment: Releasing the software to users or deploying it to the production environment.
 
